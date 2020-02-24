@@ -12,4 +12,7 @@
     <item
         android:id="@+id/menu_item_display_chatter"
         android:title="@string/menu_item_display_chatter"/>
+    <item
+        android:id="@+id/menu_item_view_cursor"
+        android:title="@string/menu_item_view_cursor"/>
 </menu>

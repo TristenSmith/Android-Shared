@@ -118,6 +118,12 @@ public class MainActivity extends AppCompatActivity implements OnClickListener
                 startActivity(intent);
                 break;
             }
+            case R.id.menu_item_view_cursor:
+            {
+                Intent intent = new Intent(this, CursorActivity.class);
+                startActivity(intent);
+                break;
+            }
         }
         return true;
     }
