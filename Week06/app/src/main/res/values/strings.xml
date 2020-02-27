@@ -3,9 +3,10 @@
     <string name="text_main_title">Start Chatting</string>
     <string name="text_button_send">Post Chat</string>
     <string name="text_send_chat_hint">Type chat here</string>
+    <string name="menu_item_home" translatable="false">Home</string>
     <string name="menu_item_view_preferences">Preferences</string>
-    <string name="menu_item_start_service">Start Service</string>
-    <string name="menu_item_stop_service">Stop Service</string>
+    <string name="menu_item_start_service" translatable="false">Go Online</string>
+    <string name="menu_item_stop_service" translatable="false">Go Offline</string>
     <string name="menu_item_display_chatter" translatable="false">Display Chatter</string>
     <string name="menu_item_view_cursor" translatable="false">View Cursor</string>
     <string name="preference_key_login_name">user_login_name</string>
