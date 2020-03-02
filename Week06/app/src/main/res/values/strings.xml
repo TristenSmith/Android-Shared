@@ -9,6 +9,7 @@
     <string name="menu_item_stop_service" translatable="false">Go Offline</string>
     <string name="menu_item_display_chatter" translatable="false">Display Chatter</string>
     <string name="menu_item_view_cursor" translatable="false">View Cursor</string>
+    <string name="menu_item_idk" translatable="false">View Fragment</string>
     <string name="preference_key_login_name">user_login_name</string>
     <string name="preference_title_login_name">Alias</string>
     <string name="preference_summary_login_name">Use this to set or modify your Chatter Alias</string>

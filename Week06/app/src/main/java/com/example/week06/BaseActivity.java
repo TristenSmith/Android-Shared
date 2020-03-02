@@ -86,6 +86,12 @@ public class BaseActivity extends AppCompatActivity
                 Log.d(TAG, "home");
                 break;
             }
+            case R.id.menu_item_idk:
+            {
+                startActivity(new Intent(this, IdkActivity.class));
+                Log.d(TAG, "idk");
+                break;
+            }
         }
         return true;
     }
